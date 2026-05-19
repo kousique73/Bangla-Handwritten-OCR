@@ -23,6 +23,8 @@ The core model (`BanglaOCR` in `model.py`) is inspired by DETR (DEtection TRansf
 
 ## Dataset Directory Structure
 
+https://www.kaggle.com/datasets/kousique73/bangla-handwritten-dataset
+
 To train and validate the model, ensure your dataset is organized in the root directory as follows:
 
 ```text
